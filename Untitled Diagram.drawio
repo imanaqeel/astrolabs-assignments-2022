@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T07:21:50.582Z" agent="5.0 (Macintosh)" etag="ptxkq1MHAKmRD0BXOsuf" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-02T07:23:06.733Z" agent="5.0 (Macintosh)" etag="4uV6v3ckZRX63ViZCFUs" version="16.6.4" type="github" pages="2">
   <diagram name="Landing Page" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1127" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Landing Page" id="GI8vJFVQjOxysoXBX6Wj">
+  <diagram name="Products Page" id="GI8vJFVQjOxysoXBX6Wj">
     <mxGraphModel dx="1127" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="el8Dttl8L1E4c5gBPtOF-0" />
@@ -285,14 +285,6 @@
         <mxCell id="aByMA1-MPRmc2SQGBLkS-0" value="&lt;&lt; Prev 1 2 3 4 5 6 7 8 9 10 Next &gt;&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.pagination;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;" vertex="1" parent="el8Dttl8L1E4c5gBPtOF-1">
           <mxGeometry x="430" y="990" width="350" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="ynJtz48aRUrB5Q7KK9qz" name="Products Page">
-    <mxGraphModel dx="1127" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="3s4SkqkVHqMbS9hDUdtD-0" />
-        <mxCell id="3s4SkqkVHqMbS9hDUdtD-1" parent="3s4SkqkVHqMbS9hDUdtD-0" />
       </root>
     </mxGraphModel>
   </diagram>
